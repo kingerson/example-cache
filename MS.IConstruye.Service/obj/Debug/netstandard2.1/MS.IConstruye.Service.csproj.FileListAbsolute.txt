@@ -1,0 +1,10 @@
+C:\Users\gnava\Desktop\ICostruye\MS.IConstruye\MS.IConstruye.Service\bin\Debug\netstandard2.1\MS.IConstruye.Service.deps.json
+C:\Users\gnava\Desktop\ICostruye\MS.IConstruye\MS.IConstruye.Service\bin\Debug\netstandard2.1\MS.IConstruye.Service.dll
+C:\Users\gnava\Desktop\ICostruye\MS.IConstruye\MS.IConstruye.Service\bin\Debug\netstandard2.1\MS.IConstruye.Service.pdb
+C:\Users\gnava\Desktop\ICostruye\MS.IConstruye\MS.IConstruye.Service\obj\Debug\netstandard2.1\MS.IConstruye.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gnava\Desktop\ICostruye\MS.IConstruye\MS.IConstruye.Service\obj\Debug\netstandard2.1\MS.IConstruye.Service.AssemblyInfoInputs.cache
+C:\Users\gnava\Desktop\ICostruye\MS.IConstruye\MS.IConstruye.Service\obj\Debug\netstandard2.1\MS.IConstruye.Service.AssemblyInfo.cs
+C:\Users\gnava\Desktop\ICostruye\MS.IConstruye\MS.IConstruye.Service\obj\Debug\netstandard2.1\MS.IConstruye.Service.csproj.CoreCompileInputs.cache
+C:\Users\gnava\Desktop\ICostruye\MS.IConstruye\MS.IConstruye.Service\obj\Debug\netstandard2.1\MS.IConstruye.Service.dll
+C:\Users\gnava\Desktop\ICostruye\MS.IConstruye\MS.IConstruye.Service\obj\Debug\netstandard2.1\MS.IConstruye.Service.pdb
+C:\Users\gnava\Desktop\ICostruye\MS.IConstruye\MS.IConstruye.Service\obj\Debug\netstandard2.1\MS.IConstruye.Service.csproj.AssemblyReference.cache

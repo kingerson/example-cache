@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f496c82e-8b46-487c-b0b1-ca549f55a6d8": {
+      "ProjectGuid": "f496c82e-8b46-487c-b0b1-ca549f55a6d8",
+      "DisplayName": "MS.IConstruye",
+      "ColorIndex": 0
+    },
+    "375ecea3-43ac-4274-a762-a31edcb5a86e": {
+      "ProjectGuid": "375ecea3-43ac-4274-a762-a31edcb5a86e",
+      "DisplayName": "MS.IConstruye.Application",
+      "ColorIndex": 1
+    },
+    "9b48176d-6fb3-429c-b6e5-ec22aaa677ab": {
+      "ProjectGuid": "9b48176d-6fb3-429c-b6e5-ec22aaa677ab",
+      "DisplayName": "MS.IConstruye.Domain",
+      "ColorIndex": 2
+    },
+    "72296acf-8e5b-457d-8c7f-560e839288c6": {
+      "ProjectGuid": "72296acf-8e5b-457d-8c7f-560e839288c6",
+      "DisplayName": "MS.IConstruye.Repository",
+      "ColorIndex": 3
+    },
+    "1b130ca4-50ab-4909-a582-4b974ba32569": {
+      "ProjectGuid": "1b130ca4-50ab-4909-a582-4b974ba32569",
+      "DisplayName": "MS.IConstruye.Service",
+      "ColorIndex": 4
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 5
+}

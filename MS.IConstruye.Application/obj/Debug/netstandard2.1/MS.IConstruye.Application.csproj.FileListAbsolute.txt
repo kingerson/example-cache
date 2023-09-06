@@ -1,0 +1,15 @@
+C:\Users\gnava\Desktop\ICostruye\MS.IConstruye\MS.IConstruye.Application\bin\Debug\netstandard2.1\MS.IConstruye.Application.deps.json
+C:\Users\gnava\Desktop\ICostruye\MS.IConstruye\MS.IConstruye.Application\bin\Debug\netstandard2.1\MS.IConstruye.Application.dll
+C:\Users\gnava\Desktop\ICostruye\MS.IConstruye\MS.IConstruye.Application\bin\Debug\netstandard2.1\MS.IConstruye.Application.pdb
+C:\Users\gnava\Desktop\ICostruye\MS.IConstruye\MS.IConstruye.Application\obj\Debug\netstandard2.1\MS.IConstruye.Application.csproj.AssemblyReference.cache
+C:\Users\gnava\Desktop\ICostruye\MS.IConstruye\MS.IConstruye.Application\obj\Debug\netstandard2.1\MS.IConstruye.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gnava\Desktop\ICostruye\MS.IConstruye\MS.IConstruye.Application\obj\Debug\netstandard2.1\MS.IConstruye.Application.AssemblyInfoInputs.cache
+C:\Users\gnava\Desktop\ICostruye\MS.IConstruye\MS.IConstruye.Application\obj\Debug\netstandard2.1\MS.IConstruye.Application.AssemblyInfo.cs
+C:\Users\gnava\Desktop\ICostruye\MS.IConstruye\MS.IConstruye.Application\obj\Debug\netstandard2.1\MS.IConstruye.Application.csproj.CoreCompileInputs.cache
+C:\Users\gnava\Desktop\ICostruye\MS.IConstruye\MS.IConstruye.Application\obj\Debug\netstandard2.1\MS.IConstruye.Application.dll
+C:\Users\gnava\Desktop\ICostruye\MS.IConstruye\MS.IConstruye.Application\obj\Debug\netstandard2.1\MS.IConstruye.Application.pdb
+C:\Users\gnava\Desktop\ICostruye\MS.IConstruye\MS.IConstruye.Application\bin\Debug\netstandard2.1\MS.IConstruye.Domain.dll
+C:\Users\gnava\Desktop\ICostruye\MS.IConstruye\MS.IConstruye.Application\bin\Debug\netstandard2.1\MS.IConstruye.Domain.pdb
+C:\Users\gnava\Desktop\ICostruye\MS.IConstruye\MS.IConstruye.Application\obj\Debug\netstandard2.1\MS.IConstruye.Application.csproj.CopyComplete
+C:\Users\gnava\Desktop\ICostruye\MS.IConstruye\MS.IConstruye.Application\bin\Debug\netstandard2.1\MS.IConstruye.Service.dll
+C:\Users\gnava\Desktop\ICostruye\MS.IConstruye\MS.IConstruye.Application\bin\Debug\netstandard2.1\MS.IConstruye.Service.pdb

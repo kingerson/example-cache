@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Autofac.Extensions.DependencyInjection" Version="7.2.0" />
+    <PackageReference Include="Microsoft.ApplicationInsights.AspNetCore" Version="2.20.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="5.0.13" />
+    <PackageReference Include="Microsoft.Extensions.Caching.Memory" Version="6.0.1" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="5.6.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\MS.IConstruye.Application\MS.IConstruye.Application.csproj" />
+    <ProjectReference Include="..\MS.IConstruye.Domain\MS.IConstruye.Domain.csproj" />
+    <ProjectReference Include="..\MS.IConstruye.Repository\MS.IConstruye.Repository.csproj" />
+    <ProjectReference Include="..\MS.IConstruye.Service\MS.IConstruye.Service.csproj" />
+  </ItemGroup>
+
+</Project>
